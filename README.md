@@ -12,7 +12,7 @@ We want you to build a cool tool or dApp that uses at least one of our developer
 * [Multi-Geth Client](https://multi-geth.org/) - An ETH and ETC compatible client
 * [Jade Service Runner](https://github.com/etclabscore/jade-service-runner) - Envoy proxy for decentralized services
 * [Jade Desktop](https://github.com/etclabscore/jade-desktop) - a ux for running chains
-* [Ethereum JSON RPC Spec Client](https://github.com/etclabscore/ethereum-json-rpc-specification)
+* [Ethereum JSON RPC Spec Client](https://github.com/etclabscore/ethereum-json-rpc-specification#clients)
 * [Expedition](http://expedition.dev/) - a self contained block explorer
 * [Signatory](http://signatory.dev/) a code signing service
 * [Open-RPC Client Generator](https://github.com/open-rpc/generator-client) - Generate OpenRPC/JSON-RPC clients
