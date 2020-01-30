@@ -19,7 +19,7 @@ We want you to build a cool tool or dApp that uses at least one of our developer
 * [Open-RPC Server Generator](https://github.com/open-rpc/server-js) - Generate OpenRPC/JSON-RPC server interface
 * [Open-RPC Typings Generator](https://github.com/open-rpc/typings) - Generate Open-RPC Types
 * [Open-RPC React Docs Generator](https://github.com/open-rpc/docs-react)
-* [React Typescript Project Generator](https://github.com/https://github.com/etclabscore/pristine-typescript-react)
+* [React Typescript Project Generator](https://github.com/etclabscore/pristine-typescript-react)
 * [Typescript Material UI Gatsby Generator](https://github.com/etclabscore/pristine-typescript-gatsby-react-material-ui)
 
 
