@@ -1,7 +1,7 @@
 ## Eth Denver Bounty - 2020
 
 ### Who are we?
-Ethereum Classic Labs is a blockchain accelerator, investor and blockchain core infrastructure developer. We provide tools and funding to help developers build on the Ethereum Classic blockchain.
+Ethereum Classic Labs is a blockchain accelerator, investor, and blockchain core infrastructure developer. We provide tools and funding to help developers build on the Ethereum Classic blockchain.
 
 ### Bounty
 
