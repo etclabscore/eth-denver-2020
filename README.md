@@ -45,15 +45,15 @@ We will determine the winner of the bounty using the following criteria.
 #### Amount: 
 $500 in ETH per valid submission. Up to 2 winners!
 
-#### Connect to ETC full nodes from our public RPC Endpoints
-##### ETC Mainnet
-https://services.jade.builders/multi-geth/mainnet/1.9.9
-https://www.ethercluster.com/etc
-##### ETC Kotti Testnet
-https://services.jade.builders/multi-geth/kotti/1.9.9
-https://www.ethercluster.com/kotti
-##### ETC Mordor Testnet
-https://services.jade.builders/multi-geth/mordor/1.9.9
+#### Connect to ETC full nodes from public RPC Endpoints
+- ##### ETC Mainnet
+- - https://services.jade.builders/multi-geth/mainnet/1.9.9
+- - https://www.ethercluster.com/etc
+- ##### ETC Kotti Testnet
+- - https://services.jade.builders/multi-geth/kotti/1.9.9
+- - https://www.ethercluster.com/kotti
+- ##### ETC Mordor Testnet
+- - https://services.jade.builders/multi-geth/mordor/1.9.9
 
 ##### Try it out!
 [Multi Geth](https://multi-geth.org/api-documentation/)
