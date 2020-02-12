@@ -23,10 +23,10 @@ We want you to build a cool tool or dApp that uses at least one of our developer
 * [Typescript Material UI Gatsby Generator](https://github.com/etclabscore/pristine-typescript-gatsby-react-material-ui)
 
 #### The guides
-[Jade Service Runner and Desktop](https://jade.builders/getting-started/)
-[Multi Geth Getting Overview](https://multi-geth.org/overview)
-[OpenRPC Getting Started](https://open-rpc.org/getting-started)
-[Signatory Getting Started](https://signatory.dev/getting-started)
+- [Jade Service Runner and Desktop](https://jade.builders/getting-started/)
+- [Multi Geth Getting Overview](https://multi-geth.org/overview)
+- [OpenRPC Getting Started](https://open-rpc.org/getting-started)
+- [Signatory Getting Started](https://signatory.dev/getting-started)
 
 #### Example Inspiration
 
